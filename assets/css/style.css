@@ -14,7 +14,9 @@
 figure img,
 .name,
 .location,
-.author-main {
+.author-main,
+.smedia-links,
+.link {
     transition: all 0.3s ease;
 }
 
@@ -115,6 +117,12 @@ figure img {
     line-height: 150%;
     background-color: #333333;
     border-radius: 0.75rem;
+}
+
+.link:hover,
+.link:focus {
+    background-color: #c4f82a;
+    color: #333333;
 }
 
 .attribution {
