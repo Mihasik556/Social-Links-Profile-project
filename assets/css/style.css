@@ -134,3 +134,11 @@ figure img {
 .attribution a {
     color: #c4f82a;
 }
+
+@media screen and (min-width: 768px) {
+    .profile-card {
+        width: 384px;
+        min-height: 611px;
+        padding: 2.5rem;
+    }
+}
