@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-There`s not so much new things for me that I learned from this project, but some of them worth to mention. For example I liked how I maked buttons grow with the card using flex grow properies.
+There`s not so much new things for me that I learned from this project, but some of them worth to mention. For example I liked how I maked buttons grow along with the card using flex grow properies.
 
 ```css
 .smedia-links {
