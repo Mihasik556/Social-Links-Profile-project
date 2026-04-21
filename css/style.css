@@ -25,6 +25,11 @@ figure img,
     src: url(../fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
 
+@font-face {
+    font-family: "Inter-SB";
+    src: url(../assets/fonts/static/Inter-SemiBold.ttf);
+}
+
 html {
     font-family: "Inter", system-ui, Helvetica, Arial, sans-serif;
 }
@@ -76,9 +81,9 @@ figure img {
 }
 
 .name {
+    font-family: "Inter-SB";
     color: #ffffff;
     font-size: 1.5rem;
-    font-weight: 700;
     line-height: 150%;
 }
 
